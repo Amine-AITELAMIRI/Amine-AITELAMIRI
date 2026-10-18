@@ -1,15 +1,10 @@
-## Hi there 👋
+# Amine Ait Elamiri
 
-<!--
-**Amine-AITELAMIRI/Amine-AITELAMIRI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm pursuing an MEng in Artificial Intelligence at the University of Cincinnati alongside telecommunications engineering studies at ENSEIRB-MATMECA. I'm looking for a Spring 2027 internship in machine learning, applied AI, signal processing, or data science.
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on several projects in telecom
-- 🌱 I’m currently learning C and Rust
-- 🤔 I’m looking for help with docker
-- 💬 Ask me about anything🤷‍♂️
-- 📫 How to reach me: amine.aitelamiri2004@gmail.com 
-- 😄 Pronouns: he/him
-- ⚡ fun fact: yes
+### Selected projects
+
+- [Leaky-wave antenna research](https://github.com/Amine-AITELAMIRI/leaky-wave-mitacs-research) — MATLAB simulations of sensing, user-angle estimation, and communication allocation. The reported results are simulated, not hardware measurements.
+- [Skin-lesion classification](https://github.com/Amine-AITELAMIRI/skin-lesion-classification) — CNN and ResNet18 image-classification experiments. The results are exploratory, not clinical validation.
+- [POLARIS wiretap case study](https://github.com/Amine-AITELAMIRI/polaris-wiretap-case-study) — A seven-person polar-code simulation project; the repository distinguishes my contributions from team results.
 
